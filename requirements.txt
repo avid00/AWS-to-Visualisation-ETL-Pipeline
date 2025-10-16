@@ -1,0 +1,7 @@
+# run:
+# pip install -r requirements.txt
+
+boto3
+pandas
+python-dotenv
+logging
