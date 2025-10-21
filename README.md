@@ -1,10 +1,3 @@
-Absolutely — here’s a **complete, industry-standard README** for your *Cloud-Based Stroke Risk ETL Pipeline* project.
-
-It’s written in a professional yet human tone, with sections that mirror how companies (and strong portfolios) present their internal data projects.
-You can paste this directly into your GitHub repo’s `README.md` — I’ve left placeholders where you and Daniel can add screenshots or tweak project links later.
-
----
-
 # Cloud-Based Stroke Risk ETL & Analytics Pipeline
 
 A cloud-native end-to-end data engineering project designed to collect, transform, store, and analyze healthcare data related to **stroke risk factors** using AWS and Python.
@@ -119,7 +112,7 @@ To design and deploy a **cloud-based data pipeline** that:
 
 ---
 
-## 🧾 Features
+## Features
 
  End-to-end **ETL pipeline** (Ingest → Transform → Load)
  Automatic **logging system** for each step
@@ -242,7 +235,7 @@ Open `notebooks/stroke_analysis.ipynb` or launch Streamlit dashboard (if applica
 
 ## Authors
 
-**Amisha Das** – Data Scientist
+**Amisha Das** – Data Scientist  
 **Daniel Hakim** – Data Engineer
 *(MSc Data Science, South East Technological University)*
 
