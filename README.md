@@ -99,6 +99,9 @@ To design and deploy a **cloud-based data pipeline** that:
 
 ## Tech Stack
 
+![diagram.png]
+
+
 | Component        | Tool / Service                                           |
 | ---------------- | -------------------------------------------------------- |
 | Cloud            | AWS (S3, RDS)                                            |
@@ -108,7 +111,9 @@ To design and deploy a **cloud-based data pipeline** that:
 | Logging          | Python `logging` module (custom logger)                  |
 | Orchestration    | Makefile                                                 |
 | Version Control  | GitHub                                                   |
-| Visualization    | Jupyter Notebook / Streamlit                             |
+| Visualization    | Jupyter Notebook / Streamlit  /Tableau                   |
+
+(abandoned; tableau public doesn't have postgre connection) ~~Tableau is connected via a script tableau_connection/refresh.py~~
 
 ---
 
@@ -224,7 +229,7 @@ Open `notebooks/stroke_analysis.ipynb` or launch Streamlit dashboard (if applica
 
 **Amisha Das** – Data Scientist  
 **Daniel Hakim** – Data Engineer
-*(MSc Data Science, South East Technological University)*
+*(MSc Data Science)*
 
 ---
 
