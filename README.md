@@ -99,7 +99,7 @@ To design and deploy a **cloud-based data pipeline** that:
 
 ## Tech Stack
 
-![diagram.png]
+(![stack diagram](https://github.com/avid00/AWS-to-Visualisation-ETL-Pipeline/blob/main/diagram.png))
 
 
 | Component        | Tool / Service                                           |
