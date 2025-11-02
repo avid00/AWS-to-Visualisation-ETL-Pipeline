@@ -17,6 +17,7 @@ eggs/
 lib/
 lib64/
 parts/
+.streamlit/secrets.toml
 sdist/
 var/
 wheels/

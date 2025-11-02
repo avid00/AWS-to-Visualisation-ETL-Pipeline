@@ -99,7 +99,7 @@ To design and deploy a **cloud-based data pipeline** that:
 
 ## Tech Stack
 
-(![stack diagram](https://github.com/avid00/AWS-to-Visualisation-ETL-Pipeline/blob/main/diagram.png))
+![stack diagram](https://github.com/avid00/AWS-to-Visualisation-ETL-Pipeline/blob/main/diagram.png)
 
 
 | Component        | Tool / Service                                           |
@@ -239,4 +239,3 @@ Open `notebooks/stroke_analysis.ipynb` or launch Streamlit dashboard (if applica
 * Add a lightweight API for querying risk scores
 * Experiment with ML models for stroke prediction
 * Automate pipeline orchestration using Prefect
-
